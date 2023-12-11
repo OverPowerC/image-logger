@@ -1,10 +1,10 @@
-# 📸 Discord Image Logger
+# Discord Image Logger
 
 Please note that this is **NOT** a "one click" image logger. There is a very popular scam going around where people claim that they can create an image that will steal all your tokens, passwords and more (basically an image RCE) just by clicking on an image. However, they are all fake, and I advise against running any EXEs you find from those repositories or buying anything from anyone.
 
 ---
 
-# 💎 Features
+# Features
 * Fast, Free, and Easy!
 * 100% Untracable and Anonymous!
 * Requires only clicking "Open Original"!
@@ -13,7 +13,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 
 ---
 
-# 🔧 Configuration
+# Configuration
 
 Before setting it up, let's modify the **config.** <br>
 Open up `main.py` and edit the values, refer to the key below.
